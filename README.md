@@ -10,13 +10,13 @@ Mvvm folder structure
 
 
 ## Deployment
-gitHub : https://github.com/IMnoble123/whatsapp_messenger.git 
+https://github.com/IMnoble123/E-commerce_Ui.git
 
 
 ## Run Locally
 Clone the project
 
-  git clone https://github.com/IMnoble123/whatsapp_messenger.git
+  git clone https://github.com/IMnoble123/E-commerce_Ui.git
 Go to the project directory
 
   cd my-project
