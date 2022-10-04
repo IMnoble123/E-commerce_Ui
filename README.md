@@ -2,10 +2,10 @@ Shop now >
 an E-commerce App Ui 
 
 ## Features
-different categories
-offerzones
-bill Options
-Mvvm folder structure
+-different categories
+-offerzones
+-bill Options
+-Mvvm folder structure
 
 
 
@@ -17,15 +17,15 @@ https://github.com/IMnoble123/E-commerce_Ui.git
 Clone the project
 
   git clone https://github.com/IMnoble123/E-commerce_Ui.git
-Go to the project directory
+-Go to the project directory
 
-  cd my-project
-Install dependencies
+  -cd my-project
+-Install dependencies
 
-  flutter clean
-  Start the server
+  -flutter clean
+  -Start the server
 
-  flutter pub get
-  flutter run
+  -flutter pub get
+  -flutter run
 
 
